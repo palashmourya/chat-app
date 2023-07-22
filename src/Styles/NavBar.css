@@ -1,0 +1,9 @@
+.nav-img{
+    height: 70px;
+    width: 60px;
+    mix-blend-mode: darken;
+}
+.nav-h5{
+    color:black;
+    display: inline;
+}
